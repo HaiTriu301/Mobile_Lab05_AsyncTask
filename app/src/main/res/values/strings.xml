@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Async Task</string>
+    <string name="instructions">Press the button below to start a background task that sleeps for a random duration between 0 and 2 seconds.</string>
+    <string name="start_task">Start Background Task</string>
+    <string name="ready_to_start">Ready to start!</string>
+    <string name="napping">Napping...</string>
+</resources>
